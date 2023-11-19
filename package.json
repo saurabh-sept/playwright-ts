@@ -1,10 +1,11 @@
 {
   "name": "playwright-ts",
   "version": "1.0.0",
-  "description": "Playwright Typescript Test Automation Framework",
+  "description": "Playwright-Typescript Test Automation Framework",
   "main": "index.js",
-  "scripts": {},
-  "keywords": [],
+  "scripts": {
+    "test": "npx playwright test --ui"
+  },
   "author": "Saurabh Sinha",
   "license": "ISC",
   "devDependencies": {
