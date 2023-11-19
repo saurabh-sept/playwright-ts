@@ -1,0 +1,22 @@
+[
+    {
+        "FirstName": "FName1",
+        "LastName": "LName1",
+        "UserName": "",
+        "Password": "Pass1",
+        "Customer": "Company AAA",
+        "Role": "Admin",
+        "Email": "admin@mail.com",
+        "CellPhone": "082555"
+    },
+    {
+        "FirstName": "FName2",
+        "LastName": "LName2",
+        "UserName": "",
+        "Password": "Pass2",
+        "Customer": "Company BBB",
+        "Role": "Customer",
+        "Email": "customer@mail.com",
+        "CellPhone": "083444"
+    }
+]
