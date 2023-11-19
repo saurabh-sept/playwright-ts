@@ -4,6 +4,9 @@ on:
     branches: [ main, master ]
   pull_request:
     branches: [ main, master ]
+env:
+  baseAPIURL: https://dog.ceo/api
+  baseUIURL: http://www.way2automation.com/angularjs-protractor/webtables/
 jobs:
   test:
     timeout-minutes: 60
